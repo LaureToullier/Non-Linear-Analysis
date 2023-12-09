@@ -1,4 +1,4 @@
-Rotation	Base moment [kN.m]	Axial_Disp. [mm]
+Rotation	Base moment [kN.m]	Axial Disp. [mm]
 5.92446E-07	-990.1199865	0
 8.49368E-08	-990.1787704	0.000171363
 -8.87075E-08	-946.8717206	0.000287779
